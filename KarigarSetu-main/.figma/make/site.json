@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning interfaces effortlessly with this web application, designed for designers and developers to streamline the design process and enhance collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
