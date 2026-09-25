@@ -1,6 +1,6 @@
 # Karigar Setu — Full Stack
 
-Backend, AI cataloguing, search/recommendation, database, and admin dashboard for the Karigar Setu
+KarigarSetu is an AI-enabled artisan marketplace connecting traditional artisans with buyers through digital product cataloguing, marketplace discovery, authentication, product management, and order tracking, powered by React, Express.js, and MongoDB Atlas.Backend, AI cataloguing, search/recommendation, database, and admin dashboard for the Karigar Setu
 brief. Your existing frontend prototype (the Vercel-deployed one) is the artisan/buyer mobile UI —
 this repo is everything *behind* it. Point that frontend at `http://localhost:4000` (or your
 deployed backend URL) and it has a real API to talk to.
